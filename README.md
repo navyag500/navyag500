@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=3rd-Year+B.Tech+CSE+Student;Full-Stack+%2B+DSA+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+SeatPilot+%26+FoodieAI;Open+to+Software+Dev+Trainee+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=3rd-Year+B.Tech+CSE+Student;Full-Stack+%2B+DSA+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+foodie_ai;Open+to+Software+Dev+Trainee+Roles" alt="Typing SVG" />
 </a>
 
 <!-- Open to work badge -->
@@ -24,8 +24,8 @@
 ```typescript
 const navyaGupta = {
   title: "3rd-Year B.Tech CSE Student @ JECRC University, Jaipur",
-  stack: ["Java", "C++", "Python", "Java Swing", "Spring Boot", "MySQL", "JDBC"],
-  launchedProjects: ["SeatPilot", "foodie_ai"],
+  stack: ["Java", "C++", "Python", "Spring Boot", "MySQL", "JDBC"],
+  launchedProjects: ["foodie_ai"],
   certifications: [
     "Google Cloud Engineering Certificate",
     "DSA in Java + 150 LeetCode Problems (Udemy)",
@@ -42,24 +42,14 @@ const navyaGupta = {
 
 <table>
 <tr>
-<td width="50%">
-  <a href="https://github.com/navyag500/SeatPilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyag500&repo=SeatPilot&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
+<td width="100%">
+  <a href="https://github.com/navyag500/foodie_ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyag500&repo=foodie_ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
   </a>
   <p align="center">
-    <b>Classroom Seat Allocation System</b><br/>
-    Automates exam hall seat allocation for 500+ students, cutting manual processing from hours to under 1 second.<br/>
-    <a href="https://github.com/navyag500/SeatPilot">Code</a>
-  </p>
-</td>
-<td width="50%">
-  <a href="https://github.com/navyag500/FoodieAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyag500&repo=FoodieAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
-  </a>
-  <p align="center">
-    <b>Location-Aware Food Recommendation App</b><br/>
-    Spring Boot REST API backend + Java Swing frontend + MySQL — in active development.<br/>
-    <a href="https://github.com/navyag500/FoodieAI">Code</a>
+    <b>foodie_ai — Restaurant Recommendation System</b><br/>
+    Full-stack app built with Spring Boot, Spring Data JPA, Hibernate, and MySQL (MVC architecture), with a personalized recommendation engine ranking restaurants by location, cuisine, and budget. Frontend in HTML/CSS/JS consuming REST APIs.<br/>
+    <a href="https://github.com/navyag500/foodie_ai">Code</a>
   </p>
 </td>
 </tr>
@@ -71,19 +61,15 @@ const navyaGupta = {
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css"/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
 
 **Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=gcp"/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,render,netlify"/>
 
 **Databases**
 <br/>
@@ -91,7 +77,7 @@ const navyaGupta = {
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,netbeans"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,netbeans,postman,vscode"/>
 
 <br/>
 
