@@ -25,7 +25,7 @@
 const navyaGupta = {
   title: "3rd-Year B.Tech CSE Student @ JECRC University, Jaipur",
   stack: ["Java", "C++", "Python", "Java Swing", "Spring Boot", "MySQL", "JDBC"],
-  launchedProjects: ["SeatPilot", "FoodieAI"],
+  launchedProjects: ["SeatPilot", "foodie_ai"],
   certifications: [
     "Google Cloud Engineering Certificate",
     "DSA in Java + 150 LeetCode Problems (Udemy)",
