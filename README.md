@@ -38,19 +38,19 @@ const navyaGupta = {
 
 <br/>
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
 <table>
 <tr>
-<td width="100%">
-  <a href="https://github.com/navyag500/foodie_ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyag500&repo=foodie_ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
-  </a>
-  <p align="center">
-    <b>foodie_ai — Restaurant Recommendation System</b><br/>
-    Full-stack app built with Spring Boot, Spring Data JPA, Hibernate, and MySQL (MVC architecture), with a personalized recommendation engine ranking restaurants by location, cuisine, and budget. Frontend in HTML/CSS/JS consuming REST APIs.<br/>
-    <a href="https://github.com/navyag500/foodie_ai">Code</a>
-  </p>
+<td width="100%" valign="top">
+
+#### 🍽️ foodie_ai
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) [![Code](https://img.shields.io/badge/Code-↗-blue?style=flat-square)](https://github.com/navyag500/foodie_ai)
+
+**Full-stack restaurant recommendation system** with a Spring Boot + Spring Data JPA + Hibernate backend (MVC architecture) and a personalized engine that ranks restaurants by location, cuisine preference, and budget.
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 </td>
 </tr>
 </table>
