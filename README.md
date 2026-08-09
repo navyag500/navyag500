@@ -44,7 +44,7 @@ const navyaGupta = {
 #### 🍽️ FoodieAI — Restaurant Recommendation System
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-7dd3fc?style=flat-square)](https://your-live-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-7dd3fc?style=flat-square)](https://glittery-dieffenbachia-5b2410.netlify.app/)
 [![Code](https://img.shields.io/badge/Code-↗-blue?style=flat-square)](https://github.com/navyag500/foodie_ai)
 
 Full-stack restaurant recommendation system with a **Spring Boot + Spring Data JPA + Hibernate** backend (MVC architecture). Features **8 REST API endpoints** for user management, restaurant CRUD, and AI-driven recommendation queries. The recommendation engine ranks restaurants using a **weighted scoring algorithm** — Haversine distance (35%) + rating (40%) + preference match (25%). Deployed on **Railway** with MySQL as the production database.
