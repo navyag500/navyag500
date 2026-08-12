@@ -9,8 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Developer%20Trainee-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=navyag500&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/navyag500?label=FOLLOWERS&style=for-the-badge&color=7dd3fc"/>
 
 </div>
 
