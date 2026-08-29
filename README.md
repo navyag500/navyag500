@@ -1,4 +1,10 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Hi%20There!%20I'm%20Navya%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20Trainee%20Aspirant&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=4th-Year+B.Tech+CSE+Student;Java+%7C+Spring+Boot+%7C+Full-Stack+Developer;274%2B+Problems+Solved+Across+Platforms;GCP+Certified+%7C+Open+to+SDE+Roles" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Developer%20Role-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=white"/> </div>
+
+
+
+
+
+
 👩‍💻 About Me
 typescript
 const navyaGupta = {
