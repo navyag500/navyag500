@@ -30,13 +30,36 @@ I like turning backend logic into things people can actually use — REST APIs, 
 - DSA in Java + 150 LeetCode Problems — Udemy (Pratik Singhal), 42.5 hrs
 - DSA in Java: Secrets to Ace LeetCode — Udemy (Prerak Mehta), 40.5 hrs
 
-## 📊 Coding Stats
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=navyag500&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyag500&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=navyag500&theme=nord&border=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
+</div>
+
+## ⚡ LeetCode Stats
 
 274+ problems solved across LeetCode, CodeChef, and GeeksforGeeks (63 active days, max streak of 20) — including 161 on LeetCode (94 Easy · 57 Medium · 10 Hard) spanning DP, graphs, binary search, and sliding window.
 
-[![LeetCode](https://leetcode.card.workers.dev/?username=navya_500&theme=light)](https://leetcode.com/u/navya_500/)
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/navya_500?theme=nord&font=Fira%20Code&ext=heatmap" width="70%"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyag500&show_icons=true&theme=default&hide_border=true)
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=navyag500&theme=nord&no-frame=true&column=7&margin-w=10"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyag500&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true"/>
+</div>
 
 ## 🔗 Connect
 
