@@ -1,4 +1,10 @@
-# Hi, I'm Navya 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=180&section=header&text=Hi%20There!%20I'm%20Navya%20👋&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+Student;Java+%7C+Spring+Boot+%7C+Full-Stack+Developer;274%2B+Problems+Solved+Across+Platforms;Open+to+SDE+Roles" alt="Typing SVG" />
+</a>
+</div>
 
 Final-year B.Tech CSE student @ JECRC University, Jaipur · Building full-stack apps with Java & Spring Boot · Open to Software Developer roles
 
@@ -35,3 +41,5 @@ I like turning backend logic into things people can actually use — REST APIs, 
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/navya-gupta-236b89200) · [LeetCode](https://leetcode.com/u/navya_500/) · [CodeChef](https://www.codechef.com/users/navyag_cse) · [Codolio](https://codolio.com/profile/navya_500) · [Email](mailto:navyag500@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" width="100%"/>
